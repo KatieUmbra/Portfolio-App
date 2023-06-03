@@ -1,0 +1,6 @@
+[submodule "Angular"]
+	path = Angular
+	url = https://github.com/KatieUmbra/Portfolio-App-Web.git
+[submodule "Ktor"]
+	path = Ktor
+	url = https://github.com/KatieUmbra/Portfolio-App-Server.git
